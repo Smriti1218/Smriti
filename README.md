@@ -1,1 +1,1 @@
-# Smriti this is my first repo
+# Smriti this is my first repository
